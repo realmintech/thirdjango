@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0E15-E84C
+
+ Directory of C:\Users\A T K\Desktop\OIC\PYTHON PROJECTS\thirdjango
+
+10/12/2022  10:29 AM    <DIR>          .
+10/12/2022  10:29 AM    <DIR>          ..
+10/12/2022  10:21 AM                81 .env
+10/12/2022  10:23 AM                25 .gitignore
+10/12/2022  10:13 AM    <DIR>          calculate
+10/12/2022  10:14 AM                 0 db.sqlite3
+10/12/2022  10:11 AM               687 manage.py
+10/12/2022  10:29 AM                 0 requirement.txt
+10/12/2022  10:06 AM    <DIR>          third
+               5 File(s)            793 bytes
+               4 Dir(s)  338,485,755,904 bytes free
